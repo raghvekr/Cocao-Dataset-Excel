@@ -3,9 +3,13 @@ Chocolate is one of the most popular candies in the world. Each year, residents 
 
 # Flavors of Cacao Rating System:
 5= Elite (Transcending beyond the ordinary limits)
+
 4= Premium (Superior flavor development, character and style)
+
 3= Satisfactory(3.0) to praiseworthy(3.75) (well made with special qualities)
+
 2= Disappointing (Passable but contains at least one significant flaw)
+
 1= Unpleasant (mostly unpalatable)
 
 
@@ -24,6 +28,8 @@ https://www.kaggle.com/
 
 
 # Business Questions
-Where are the best cocoa beans grown?
-Which countries produce the highest-rated bars?
-What’s the relationship between cocoa solids percentage and rating?
+1. Where are the best cocoa beans grown?
+2. Which countries produce the highest-rated bars?
+3. What’s the relationship between cocoa solids percentage and rating?
+
+
